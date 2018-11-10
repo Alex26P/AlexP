@@ -20,3 +20,5 @@ public class NumereNegative {
 }
 //	m-am impotmolit........ :| ...
 // am schimbat de atatea ori, ca deja nu mai stiu ce am vrut sa fac..
+
+// codul e aproape ok, dar ai nevoie de un contor pe care sa-l incrementezi de fiecare data cand gasesti un numar negativ si sa-l returnezi cand ai ajuns la sfarsitul for-ului
