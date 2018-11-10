@@ -22,6 +22,7 @@ public class MediaAritmetica {
 
 	}
 
+	// e aproape bine, dar ar trebui sa returnezi doar un int cu media, nu si suma
 	public static int[] mediaAritmetica(int[] calcul) {
 
 		int suma = 0;
