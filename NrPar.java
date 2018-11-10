@@ -26,6 +26,7 @@ public class NrPar {
 		nr.close();
 	}
 
+	// nu uita de acolade la if si de code conventions (evenNumber)
 	public static void evennumber(int number) {
 		if (number % 2 == 0)
 			System.out.println("Even");
